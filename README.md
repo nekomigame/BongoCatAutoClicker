@@ -17,6 +17,11 @@ or
 Download ZIP
 
 ![image](https://github.com/user-attachments/assets/664e7d69-56b8-4f49-8629-ee2b00726720)
+## ライブラリのインストール
+```shell
+python -m venv venv
+pip install -r requirements.txt
+```
 
 ## 操作方法
 ```shell
