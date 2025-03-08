@@ -25,6 +25,7 @@ pip install -r requirements.txt
 
 ## 操作方法
 ```shell
+./venv/scripts/activate
 python GUI.py
 ```
 
