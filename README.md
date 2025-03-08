@@ -34,5 +34,7 @@ python GUI.py
 
 画像を選択からクリックする対象の画像を選択し処理開始を押すことで処理が開始されます
 
+dataフォルダに宝箱の画像とBongo Catの画像が入っているのでよければ使ってください
+
 # License
 MIT License
